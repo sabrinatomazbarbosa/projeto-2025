@@ -1,1 +1,5 @@
-teste.txt
+final da aula fazer esses comandos(se você atualizou ou modificou algum codigo)
+
+1- git add . 
+2- git commit -m "mensagem"
+3- git push origin dev-sabrina 
